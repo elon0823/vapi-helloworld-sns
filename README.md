@@ -1,1 +1,1 @@
-# vapi-helloworld-sns
+# VAPI - helloworld for SNS
